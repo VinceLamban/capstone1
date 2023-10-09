@@ -1,21 +1,21 @@
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 nav {
-	background: #36454F;
+  background: #36454F;
 }
 
 #projects img {
-	width: 250px;
-	height: 250px;
+  width: 250px;
+  height: 250px;
 }
 
 #tools img {
-	width: 150px;
-	height: 150px;
+  width: 150px;
+  height: 150px;
 }
 
 body {
@@ -109,27 +109,10 @@ body {
   background-color: #3b5999;
   color: #ffffff;
 }
-.wrapper .twitter:hover,
-.wrapper .twitter:hover .tooltip,
-.wrapper .twitter:hover .tooltip::before {
-  background-color: #46c1f6;
-  color: #ffffff;
-}
+
 .wrapper .instagram:hover,
 .wrapper .instagram:hover .tooltip,
 .wrapper .instagram:hover .tooltip::before {
   background-color: #e1306c;
-  color: #ffffff;
-}
-.wrapper .github:hover,
-.wrapper .github:hover .tooltip,
-.wrapper .github:hover .tooltip::before {
-  background-color: #333333;
-  color: #ffffff;
-}
-.wrapper .youtube:hover,
-.wrapper .youtube:hover .tooltip,
-.wrapper .youtube:hover .tooltip::before {
-  background-color: #de463b;
   color: #ffffff;
 }
